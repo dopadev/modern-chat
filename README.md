@@ -1,4 +1,4 @@
-# [Modern Chat](https://dopadev.github.io/dopadev)
+# Modern Chat
 
 ![Modern Chat preview](https://github.com/dopadev/modern-chat/raw/main/preview/modern-chat.jpg)
 
