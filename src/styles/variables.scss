@@ -1,0 +1,39 @@
+// Цвета
+$color-background: #161a1d;
+$color-text: #c7d1db;
+$color-panel: #1d2125;
+$color-border: #2e353d;
+$color-hover: #272b2f;
+$color-icon: #798897;
+
+// Обводка
+$border-radius-small: 4px;
+$border-radius-medium: 8px;
+$border-radius-large: 16px;
+$border-radius-pill: 50%;
+
+// Отступы
+$space-xxsmall: 4px;
+$space-xsmall: 6px;
+$space-small: 8px;
+$space-small-medium: 12px;
+$space-medium: 16px;
+$space-medium-large: 24px;
+$space-large: 32px;
+$space-xlarge: 48px;
+
+// Ширина
+$width-small: 300px;
+$width-medium: 600px;
+$width-large: 1200px;
+$width-xlarge: 1440px;
+
+// Контейнер
+$container-width: calc($width-xlarge + $space-large * 2);
+
+// Шапка
+$header-height: 60px;
+
+// Текст
+$font-size-logo: 28px;
+$font-size-base: 16px;
